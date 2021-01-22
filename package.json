@@ -1,0 +1,33 @@
+{
+  "name": "video-chat-web-app",
+  "version": "1.0.0",
+  "description": "A video and chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Oduge Agak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatguuyG/video-chat-web-app.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "bugs": {
+    "url": "https://github.com/thatguuyG/video-chat-web-app/issues"
+  },
+  "engines": {
+    "node": "12.18.3"
+  },
+  "homepage": "https://github.com/thatguuyG/video-chat-web-app#readme"
+}
